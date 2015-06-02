@@ -1,4 +1,6 @@
-#Introduction:
+#Frogger Clone
+
+**Introduction:**
 This game is a reproduction of the gameplay style of the classic 1980's video game Frogger.
 The object of the game is to get the Cat Girl safetly across the path to the water without getting run over
 by a bug.
