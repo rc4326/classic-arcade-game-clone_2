@@ -1,0 +1,20 @@
+resources.txt
+
+
+
+-Used to figure out a JS error I was having: 
+
+http://stackoverflow.com/questions/22430671/javascript-failed-to-execute-drawimage
+
+
+
+-used to figure out key press codes:
+
+http://www.asquare.net/javascript/tests/KeyCode.html
+
+
+- Learned some cool ideas from this guy: 
+https://github.com/rohitcricket/udacitynanodegreewebproject3/blob/master/js/app.js
+
+- great utility for popups using the Bootstrap modal:
+http://getbootstrap.com/javascript/http://bootboxjs.com/ 
